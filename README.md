@@ -1,11 +1,21 @@
-# web_tut
+# UsApp
+### UsApp Web Admin Panel (for administrators) 
+# Screenshots
+Login:
+![admin-usapp2](https://github.com/ue-an/usapp-web-admin/assets/68469141/09f1b304-95ed-4285-9186-f36f65d5321a)
+<br>
+Dashboard:
+![Group 19](https://github.com/ue-an/usapp-web-admin/assets/68469141/9d26908c-30ff-4e6c-9b59-50d4975445c2)
+<br>
+Manage Students:
+![Group 16](https://github.com/ue-an/usapp-web-admin/assets/68469141/cb2fa810-5c1a-4e08-a708-f6273b0871fd)
+<br>
+Manage Courses:
+![admin-courses](https://github.com/ue-an/usapp-web-admin/assets/68469141/95c1edee-941d-4d83-929c-4efb4204b6cc)
+<br>
+Manage Administrators:
+![Group 18](https://github.com/ue-an/usapp-web-admin/assets/68469141/b713068e-f94a-4a0b-9c52-bd1cb556394b)
 
-A capstone project for URSB
-
-Administrator/CMS for UsApp
-Screenshots:
-![alt text](https://github.com/ue-an/usapp-web/blob/main/git-screenshots/admin-usapp.png?raw=true)
-![alt text](https://github.com/ue-an/usapp-web/blob/main/git-screenshots/usapp-download-site.png?raw=true)
 
 A new Flutter project.
 
